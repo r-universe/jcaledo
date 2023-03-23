@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EnvNJ"]
+	path = EnvNJ
+	url = https://github.com/cran/EnvNJ
+	shallow = true
+	registered = true
+[submodule "ptm"]
+	path = ptm
+	url = https://github.com/cran/ptm
+	shallow = true
+	registered = true
+[submodule "renz"]
+	path = renz
+	url = https://github.com/cran/renz
+	shallow = true
+	registered = true
